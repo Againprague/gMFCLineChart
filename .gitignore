@@ -1,0 +1,12 @@
+ipch/
+x64/
+x86/
+Debug/
+Release/
+
+*.exe
+*.lib
+*.dll
+*.opendb
+*.obj
+*.db
