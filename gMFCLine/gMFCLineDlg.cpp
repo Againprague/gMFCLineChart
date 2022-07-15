@@ -279,7 +279,7 @@ void CgMFCLineDlg::Process()
 	m_ChartViewer.setZoomDirection(Chart::DirectionHorizontalVertical);
 	m_ChartViewer.setMouseWheelZoomRatio(1.1);
 	/////////////////////////////////////////////////////////////////////////
-	
+	//?
 	// DrawChart
 	drawLineChart(&m_ChartViewer, &imageMap);
 
